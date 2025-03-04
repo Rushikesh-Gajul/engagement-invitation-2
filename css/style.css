@@ -1810,4 +1810,5 @@ form label {
   justify-content: center !important;
   align-items: center !important;
   /* height: 100%; */
+  padding:0px !important;
 }
